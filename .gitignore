@@ -1,0 +1,26 @@
+# Environment / secrets
+.env
+.env.local
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+
+# Backend specific
+backend/venv/
+backend/chroma_db/
+backend/demo.db
+backend/.env
+
+# Node / Frontend specific
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+frontend/.pnpm-debug.log*
+
+# Claude settings
+.claude/
+
+# macOS
+.DS_Store

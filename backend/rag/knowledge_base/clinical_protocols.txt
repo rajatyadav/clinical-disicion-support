@@ -1,0 +1,97 @@
+CLINICAL PROTOCOLS — SEPSIS, COPD, CARDIAC MONITORING
+
+=== SEPSIS PROTOCOL ===
+
+SEPSIS DEFINITION
+Sepsis is life-threatening organ dysfunction caused by a dysregulated host response to infection.
+Septic shock: sepsis + vasopressors needed to maintain MAP ≥ 65 + lactate > 2 mmol/L despite fluid resuscitation.
+
+SEPSIS EARLY WARNING SIGNS
+- Fever > 38.0°C or hypothermia < 36.0°C
+- Heart rate > 90 bpm
+- Respiratory rate > 20 bpm or PaCO2 < 32 mmHg
+- White blood cell count > 12,000 or < 4,000 cells/μL
+- Altered mental status
+- Systolic BP < 100 mmHg (qSOFA)
+
+SEPSIS 1-HOUR BUNDLE (Surviving Sepsis Campaign)
+1. Measure lactate — re-measure if > 2 mmol/L
+2. Obtain blood cultures BEFORE antibiotics
+3. Administer broad-spectrum antibiotics within 1 hour
+4. Begin IV crystalloid 30 mL/kg for hypotension or lactate ≥ 4 mmol/L
+5. Apply vasopressors (norepinephrine first-line) if MAP < 65 mmHg during/after resuscitation
+
+FLAG CRITERIA FOR NURSING ESCALATION
+- Any patient with HR > 110 + SpO2 < 93% + Temp > 38.5°C — consider sepsis screening immediately
+- Systolic BP drop > 20 mmHg from baseline — notify physician
+- Lactate trend upward over 2 readings — escalate
+
+=== COPD EXACERBATION PROTOCOL ===
+
+DEFINITION
+Acute worsening of COPD symptoms beyond normal day-to-day variation requiring change in medication.
+
+SEVERITY CLASSIFICATION
+- Mild: Increased dyspnea, cough, sputum — treat with short-acting bronchodilators
+- Moderate: Significant increase in symptoms — add systemic corticosteroids ± antibiotics
+- Severe: Severe dyspnea, cyanosis, use of accessory muscles — may require hospitalization/NIV
+
+OXYGEN TARGETS FOR COPD
+- Target SpO2: 88–92% (NOT 94–98% as in normal patients)
+- Over-oxygenation can suppress hypoxic drive and cause CO2 retention (hypercapnic respiratory failure)
+- Use controlled oxygen therapy — Venturi mask preferred over uncontrolled high-flow
+
+COPD EXACERBATION TREATMENT
+1. Short-acting bronchodilators: Albuterol (salbutamol) + Ipratropium nebulized q4h
+2. Corticosteroids: Prednisone 40mg PO daily x 5 days
+3. Antibiotics (if purulent sputum or fever): Azithromycin or Doxycycline
+4. Non-invasive ventilation (NIV/BiPAP): if pH < 7.35 + PaCO2 > 45
+5. Intubation if NIV fails or contraindicated
+
+NURSING ESCALATION TRIGGERS FOR COPD
+- SpO2 < 85% despite supplemental O2
+- Respiratory rate > 30 bpm
+- Altered mental status / somnolence
+- Inability to speak full sentences
+
+=== CARDIAC MONITORING PROTOCOL ===
+
+POST-MI MONITORING
+After acute myocardial infarction, continuous cardiac monitoring is required for minimum 24–48h.
+
+MONITORING PARAMETERS
+- Continuous 12-lead or telemetry monitoring
+- BP every 1–2 hours
+- 12-lead ECG if symptoms recur
+- Daily troponin if indicated
+- Watch for: new ST changes, arrhythmias, BP instability
+
+HYPERTENSIVE EMERGENCY PROTOCOL
+- Definition: Systolic > 180 OR Diastolic > 120 WITH end-organ damage
+- End-organ damage signs: chest pain, dyspnea, AMS, visual changes, neurological deficits
+- Treatment: IV labetalol, nicardipine, or sodium nitroprusside
+- Goal: Reduce MAP by 25% in first hour (NOT normalize immediately — risk of stroke/MI)
+- AVOID rapid BP lowering — can precipitate ischemia in chronically hypertensive patients
+
+CARDIAC ALERT CRITERIA
+- New ST elevation > 1mm in 2 contiguous leads — activate STEMI protocol
+- Sustained HR > 150 or < 40 — immediate evaluation
+- Systolic BP < 80 mmHg in cardiac patient — notify physician immediately
+- New onset chest pain with diaphoresis — 12-lead ECG within 10 minutes
+
+=== GENERAL NURSING ESCALATION PROTOCOL ===
+
+WHEN TO CALL RAPID RESPONSE TEAM
+- Acute change in HR: > 130 or < 40 bpm
+- Acute change in BP: Systolic < 80 or > 200 mmHg
+- SpO2 < 88% despite oxygen
+- Respiratory rate > 30 or < 8 bpm
+- Acute change in mental status
+- Nurse clinical concern — trust your instinct
+
+MODIFIED EARLY WARNING SCORE (MEWS)
+Score 0–1 per vital sign parameter; total score interpretation:
+- 0–1: Routine monitoring
+- 2–3: Increase monitoring frequency, notify charge nurse
+- 4–5: Notify physician, consider ICU transfer
+- ≥ 6: Consider immediate physician evaluation / rapid response

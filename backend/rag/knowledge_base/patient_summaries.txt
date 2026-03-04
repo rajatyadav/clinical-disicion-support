@@ -1,0 +1,133 @@
+DEMO PATIENT CLINICAL SUMMARIES
+
+=== PATIENT: Sarah Mitchell | Room ICU-101 | Age 67F ===
+DIAGNOSIS: Sepsis (Early-Warning), source suspected urinary tract infection
+ADMISSION: 2026-02-28
+
+CLINICAL HISTORY:
+Sarah Mitchell presented to the ED with 2-day history of confusion, decreased urine output, and fever. She has a history of Type 2 Diabetes, Chronic Kidney Disease Stage 3, and recurrent UTIs.
+
+CURRENT STATUS: CRITICAL — Sepsis screening positive (qSOFA score 2)
+- Heart rate sustained above 110 bpm for the past 3 hours
+- SpO2 trending down: 93% → 91.5% over last 4 hours
+- Temperature 38.9°C (high-grade fever)
+- Systolic BP 88 mmHg — hypotension requiring vasopressor support
+- Respiratory rate 24 bpm — tachypnea
+
+CURRENT MEDICATIONS: Vancomycin (MRSA coverage), Norepinephrine drip at 0.1 mcg/kg/min, IV Normal Saline 30 mL/kg bolus completed.
+
+WHY FLAGGED: Patient meets septic shock criteria — MAP below 65 mmHg + vasopressor requirement + lactate trending up (last: 3.2 mmol/L). Sepsis bundle initiated at 14:30.
+
+CARE TEAM NOTES: Monitor for worsening organ dysfunction. Repeat lactate in 2 hours. Consider ICU attending notification if MAP does not improve within 1 hour.
+
+=== PATIENT: James Okafor | Room CCU-205 | Age 54M ===
+DIAGNOSIS: Post-Operative Cardiac Surgery — CABG Day 3
+ADMISSION: 2026-02-27
+
+CLINICAL HISTORY:
+James Okafor underwent 3-vessel CABG for severe coronary artery disease. PMH includes hypertension, hyperlipidemia, and a 30-pack-year smoking history. Surgery was uncomplicated.
+
+CURRENT STATUS: STABLE
+- HR 72 bpm, regular sinus rhythm
+- BP 122/78 mmHg — well-controlled
+- SpO2 97.5% on 2L nasal cannula
+- Temperature 36.8°C — afebrile
+- Respiratory rate 14 bpm
+
+LAST 24H TREND: Vitals have been stable throughout. Progressive ambulation initiated. Pain well-controlled on oral analgesics. Drainage from mediastinal tubes minimal.
+
+CARE TEAM NOTES: Continue current monitoring. Target discharge to step-down unit in 24–48 hours if vitals remain stable.
+
+=== PATIENT: Maria Gonzalez | Room MED-310 | Age 72F ===
+DIAGNOSIS: COPD Exacerbation — Moderate Severity
+ADMISSION: 2026-03-01
+
+CLINICAL HISTORY:
+Maria Gonzalez presented with 3-day worsening dyspnea, increased sputum production (purulent), and decreased exercise tolerance. Known COPD GOLD Stage III. Current smoker.
+
+CURRENT STATUS: WARNING — SpO2 below target despite O2 therapy
+- SpO2 88.0% — NOTE: COPD target is 88–92%, currently at lower limit
+- HR 95 bpm — mildly elevated
+- RR 22 bpm — tachypnea
+- Temp 37.2°C — low-grade, no overt fever
+
+IMPORTANT CLINICAL NOTE: Do NOT increase oxygen above target of 88–92% SpO2 in COPD patient — risk of suppressing hypoxic drive and causing CO2 retention. Current SpO2 of 88% is at the acceptable lower boundary per COPD protocol.
+
+CURRENT MEDICATIONS: Albuterol + Ipratropium nebulized q4h, Prednisone 40mg daily, Azithromycin (for purulent sputum).
+
+ABNORMAL PATTERN: SpO2 dipping to 85–87% during exertion. Escalation if SpO2 < 85% or RR > 30.
+
+=== PATIENT: Robert Hawkins | Room MED-315 | Age 45M ===
+DIAGNOSIS: Hypertensive Emergency
+ADMISSION: 2026-03-01
+
+CLINICAL HISTORY:
+Robert Hawkins presented to ED with severe headache and blurred vision. BP on arrival 215/135 mmHg. History of poorly controlled hypertension, non-compliant with medications. No known end-organ damage on admission but retinal changes noted on fundoscopy.
+
+CURRENT STATUS: WARNING
+- BP 185/115 mmHg — still above target but improved from admission
+- HR 88 bpm — normal
+- SpO2 95% — adequate
+
+TREATMENT: IV Labetalol initiated. Goal is 25% MAP reduction in first hour (achieved). Transitioning to oral Amlodipine.
+
+ABNORMAL PATTERN: BP has been fluctuating between 170–195 systolic. Requires close monitoring.
+
+=== PATIENT: Eleanor Voss | Room GER-420 | Age 81F ===
+DIAGNOSIS: Community-Acquired Pneumonia
+ADMISSION: 2026-02-29
+
+CLINICAL HISTORY:
+Eleanor Voss is an 81-year-old woman presenting with 4-day productive cough, fever, and dyspnea. Chest X-ray confirmed right lower lobe consolidation. History of atrial fibrillation and mild dementia.
+
+CURRENT STATUS: STABLE (improving)
+- SpO2 96% on 2L O2 — acceptable
+- Temp 37.8°C — trending down from 38.6°C on admission
+- HR 82 bpm — rate-controlled AFib
+- RR 18 bpm
+
+TREND: Improving on IV antibiotics. Cultures pending. Encourage oral hydration. Family updated.
+
+=== PATIENT: Daniel Park | Room MED-320 | Age 38M ===
+DIAGNOSIS: Diabetic Ketoacidosis (DKA) — Resolving
+ADMISSION: 2026-03-02
+
+CLINICAL HISTORY:
+Daniel Park presented with 1-day nausea, vomiting, and polyuria. Blood glucose on admission 620 mg/dL, pH 7.18. Type 1 Diabetes, poor medication compliance. DKA protocol initiated.
+
+CURRENT STATUS: STABLE (DKA resolving)
+- HR 105 bpm — mildly elevated (improving from 120 on admission)
+- SpO2 97% — normal
+- Kussmaul breathing resolving — RR 20 bpm
+
+TREND: Anion gap closing. Blood glucose 280 mg/dL. Continue insulin drip. Monitor potassium closely — hypokalemia risk during DKA treatment.
+
+=== PATIENT: Patricia Wu | Room CCU-210 | Age 59F ===
+DIAGNOSIS: NSTEMI — Post-Catheterization Monitoring
+ADMISSION: 2026-02-28
+
+CLINICAL HISTORY:
+Patricia Wu presented with typical chest pain and troponin elevation. Diagnosed with NSTEMI. PCI performed: stent to LAD. Monitoring post-procedure.
+
+CURRENT STATUS: WARNING
+- HR 90 bpm
+- BP 148/92 mmHg — mildly elevated; being managed
+- SpO2 94.5% — borderline, monitoring
+- Temp 37.3°C
+
+ABNORMAL PATTERN: Intermittent PVCs noted on telemetry. Statin and dual antiplatelet therapy initiated.
+
+=== PATIENT: Thomas Reed | Room MED-305 | Age 29M ===
+DIAGNOSIS: Post-Operative Appendectomy — Day 1
+ADMISSION: 2026-03-02
+
+CLINICAL HISTORY:
+Thomas Reed underwent laparoscopic appendectomy for acute non-perforated appendicitis. Surgery uncomplicated.
+
+CURRENT STATUS: STABLE
+- All vitals within normal limits
+- HR 76, BP 118/74, SpO2 98.5%, Temp 36.9°C
+- Pain 3/10 — controlled on NSAIDs
+- Tolerating clear liquids
+
+TREND: Expected discharge in 24 hours if continues to improve.

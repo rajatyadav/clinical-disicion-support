@@ -1,0 +1,45 @@
+CLINICAL VITALS REFERENCE — NORMAL AND ABNORMAL THRESHOLDS
+
+HEART RATE (HR)
+- Normal adult: 60–100 bpm
+- Bradycardia (low): < 60 bpm — may indicate heart block, hypothyroidism, medication effect
+- Tachycardia (high): > 100 bpm — may indicate infection, sepsis, pain, anxiety, dehydration, cardiac arrhythmia
+- Critical tachycardia: > 130 bpm — requires immediate evaluation
+- Critical bradycardia: < 40 bpm — requires immediate evaluation
+
+BLOOD PRESSURE (BP)
+- Normal: Systolic 90–120 mmHg, Diastolic 60–80 mmHg
+- Elevated: Systolic 120–129 mmHg
+- Stage 1 Hypertension: Systolic 130–139 or Diastolic 80–89 mmHg
+- Stage 2 Hypertension: Systolic ≥ 140 or Diastolic ≥ 90 mmHg
+- Hypertensive Urgency: Systolic > 180 mmHg without end-organ damage
+- Hypertensive Emergency: Systolic > 180 mmHg WITH end-organ damage — requires IV medication
+- Hypotension: Systolic < 90 mmHg — can indicate sepsis, hemorrhage, cardiogenic shock
+- Mean Arterial Pressure (MAP) goal in sepsis: ≥ 65 mmHg
+
+OXYGEN SATURATION (SpO2)
+- Normal: 95–100%
+- Mild hypoxemia: 90–94% — supplemental oxygen indicated
+- Moderate hypoxemia: 85–89% — escalate oxygen support, consider ABG
+- Severe hypoxemia: < 85% — immediate intervention, consider intubation
+- COPD patients: acceptable range may be 88–92% due to hypoxic drive
+
+TEMPERATURE
+- Normal: 36.1–37.2°C (97–99°F)
+- Low-grade fever: 37.3–38.0°C
+- Fever: > 38.0°C (> 100.4°F) — infectious workup indicated
+- High fever: > 39.0°C — blood cultures, antipyretics, further workup
+- Hyperthermia: > 40.0°C — critical, risk of organ damage
+- Hypothermia: < 35.0°C — warming measures, cardiac monitoring
+
+RESPIRATORY RATE (RR)
+- Normal adult: 12–20 breaths/min
+- Tachypnea: > 20 breaths/min — may indicate pain, anxiety, infection, respiratory distress
+- Bradypnea: < 12 breaths/min — may indicate opioid overdose, CNS depression
+- Critical tachypnea: > 30 breaths/min — respiratory failure risk
+
+COMBINED ABNORMAL PATTERNS
+- Sepsis screening (qSOFA): RR > 22, altered mentation, Systolic BP < 100 — 2 or more = high risk
+- Shock: HR > 100 + Systolic BP < 90 + altered mentation — emergency
+- Respiratory failure: SpO2 < 90% + RR > 25 — consider intubation
+- SIRS criteria: Temp > 38°C or < 36°C, HR > 90, RR > 20, WBC abnormal — systemic inflammatory response
